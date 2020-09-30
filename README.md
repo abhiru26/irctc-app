@@ -1,2 +1,2 @@
 # irctc-app
-IRCTC Clone
+IRCTC Clone app
